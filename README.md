@@ -6,8 +6,9 @@ Simple laravel 8 project which helps user to add products in there application u
 
 ## Setup Process
 
-- Clone Reposiory using command git clone git@github.com:SailendraShakya/infopay.git
+- Clone Reposiory using command [git clone git@github.com:SailendraShakya/infopay.git]
 - Setup .env file
-- Generate key using command php artisan key:generate
-- Run Migration using command php artisan migrate
+- Generate key using command [php artisan key:generate]
+- Run composer to install require packages using command [ composer update ]
+- Run Migration using command [ php artisan migrate ]
 - Setup is completed
